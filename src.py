@@ -59,3 +59,4 @@ print(lr.score(X_test,y_test))
 cnf_matrix = confusion_matrix(y_test,y_pred)
 print(cnf_matrix[1,1]/(n[1,0]+cnf_matrix[1,1]))
 
+
