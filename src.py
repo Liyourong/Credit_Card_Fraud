@@ -6,7 +6,6 @@ import numpy as np
 data = pd.read_csv('Book2.csv')
 data.head()
 
-
 count_classes = pd.value_counts(data['Type'],sort = True).sort_index()
 count_classes.plot(kind='bar')
 plt.title("F")
