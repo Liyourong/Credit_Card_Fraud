@@ -9,6 +9,7 @@ It should be noted that the table presented only represents a fraction of the to
 <img width="1646" alt="截屏2023-03-29 17 11 56" src="https://user-images.githubusercontent.com/105031962/228668634-fb5e6816-e48a-4068-889a-a29f8f1aa7b5.png">
 
 
+
 ## Algorithm 
 Logistic regression was employed as the technique in our program. The approach involved the segregation of data into two distinct regions of a coordinate system, and derivation of a regression line, represented by a machine learning generated function. Upon attainment of a relatively stable regression line, the latter was utilized as a criterion to differentiate fraudulent data.
 
