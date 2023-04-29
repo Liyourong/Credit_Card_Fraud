@@ -12,6 +12,7 @@ plt.title("F")
 plt.xlabel("F")
 plt.ylabel("F")
 
+
 from sklearn.preprocessing import StandardScaler
 
 X = data.loc[:, data.columns != 'Type'] 
