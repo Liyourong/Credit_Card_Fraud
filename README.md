@@ -11,4 +11,3 @@ It should be noted that the table presented only represents a fraction of the to
 ## Algorithm 
 Logistic regression was employed as the technique in our program. The approach involved the segregation of data into two distinct regions of a coordinate system, and derivation of a regression line, represented by a machine learning generated function. Upon attainment of a relatively stable regression line, the latter was utilized as a criterion to differentiate fraudulent data.
 
-
